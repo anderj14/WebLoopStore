@@ -1,0 +1,65 @@
+.section-1{
+    margin-top: 250px;
+}
+
+.section-1 article{
+    position: relative;
+    background-color: #fff;
+    width: 570px;
+    top: -350px;
+    left: 580px;
+}
+.section-1 article .title{
+    padding: 50px;
+}
+
+.section-1 article .title h1{
+    // margin-top: -40px;
+    text-transform: uppercase;
+    font-size: 55px;
+    padding: 10px;
+    // background-color: aqua;
+}
+
+.section-1 article .title p{
+    // background-color: bisque;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.container{
+    // background-color: aqua;
+    text-transform: uppercase;
+    margin-top: -200px;
+}
+
+
+.article-1 h1{
+    font-size: 50px;
+}
+
+.article-1{
+    margin-bottom: 100px;
+}
+
+.article-1 button{
+    text-transform: uppercase;
+    font-size: 20px;
+    border: 1px solid #000;
+    padding-left: 50px ;
+    padding-right: 50px;
+}
+
+
+.article-2 .creationbox img{
+    border-radius: 20px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+.article-2 .creationbox h1{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+

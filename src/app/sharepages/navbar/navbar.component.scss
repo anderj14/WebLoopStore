@@ -1,0 +1,40 @@
+nav{
+    background: url(../../../assets/images/desktop/image-hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.navbar{
+    // width: 80%;
+    // margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.links a{
+    margin: 5px;
+}
+
+nav .title{
+    color: white;
+    margin-top: 70px;
+}
+
+nav .title h1{
+    // background-color: aqua;
+    width: 500px;
+    margin-left: 120px;
+    font-size: 55px;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding: 50px;
+    border: 3px solid #fff;
+}
